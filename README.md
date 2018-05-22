@@ -24,7 +24,7 @@ In completing this assignment, you will:
 - Use those callback functions to modify the attributes of HTML elements
 
 
-FontChooser.js defines the FontChooser React component that you will implement in this assignment. Its render function uses JSX to return the following HTML elements within a <div>:
+FontChooser.js defines the FontChooser React component that you will implement in this assignment. Its render function uses JSX to return the following HTML elements within a div:
 
 - a checkbox with the ID “boldCheckbox”
 
